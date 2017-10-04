@@ -4,6 +4,8 @@ groupgender = group gendertotal by gender;
 outputs = foreach groupgender generate group, SUM(gendertotal.total) as total;
 orderoutputs = order outputs by group;
 dump orderoutputs;
+register /home/cloudera/Desktop/jars/piggybank-0.15.0.jar;
+STORE orderoutputs INTO 'outputs/pig1.3 ' using org.apache.pig.piggybank.storage.CSVExcelStorage(',');
 groupall  = group orderoutputs all;
 maxtotal = foreach groupall generate MAX(orderoutputs.total) as t;
 result = filter outputs by total == maxtotal.t;

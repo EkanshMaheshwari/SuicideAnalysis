@@ -2,7 +2,10 @@ data = load 'newa.csv' using PigStorage(',') as (state:chararray,year:int,typeco
 typecodetotal = foreach data generate typecode,total;
 grouptypecode = group typecodetotal by typecode;
 outputs = foreach grouptypecode generate group,SUM(typecodetotal.total) as total;
-dump outputs;
+orderoutputs = order outputs by group;
+register /home/cloudera/Desktop/jars/piggybank-0.15.0.jar;
+STORE orderoutputs INTO 'output/pig1.5.6 ' using org.apache.pig.piggybank.storage.CSVExcelStorage(',');
+dump orderoutputs;
 groupall = group outputs all;
 maxresult = foreach groupall generate MAX(outputs.total) as t;
 result = filter outputs by total == maxresult.t;

@@ -4,6 +4,8 @@ groupyear =group yeartotal by year;
 outputs = foreach groupyear generate group,SUM(yeartotal.total) as total;
 orderoutputs = order outputs by group;
 dump orderoutputs;
+register /home/cloudera/Desktop/jars/piggybank-0.15.0.jar;
+STORE orderoutputs INTO 'output/pig1.1 ' using org.apache.pig.piggybank.storage.CSVExcelStorage(',');
 groupall= group orderoutputs all;
 maxoutputs = foreach groupall generate MAX(orderoutputs.total) as t;
 result = filter orderoutputs by total == maxoutputs.t;
