@@ -5,4 +5,6 @@ groupagetype = group agetypetotal by (type,age);
 outputs = foreach groupagetype generate flatten(group) as (type,age),SUM(agetypetotal.total) as total; 
 orderoutputs = order outputs by type,age;
 dump orderoutputs;
+register /home/cloudera/Desktop/jars/piggybank-0.15.0.jar;
+STORE orderoutputs INTO 'output/pig5.1.5 ' using org.apache.pig.piggybank.storage.CSVExcelStorage(',');
 

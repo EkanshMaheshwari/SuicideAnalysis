@@ -1,7 +1,9 @@
 data = load 'newa.csv' using PigStorage(',') as (state:chararray,year:int,typecode:chararray,type:chararray,gender:chararray,age:chararray,total:int);
-yeartotal = foreach data generate year,total;
-groupyear =group yeartotal by year;
-outputs = foreach groupyear generate group,SUM(yeartotal.total) as total;
+yeartypecodetotal = foreach data generate year,typecode,total;
+filtertypecode= filter yeartypecodetotal by typecode=='Means_adopted';
+yeartotal = foreach filtertypecode generate year,total;
+groupyear = group yeartotal by year;
+outputs = foreach groupyear generate group,SUM(yeartotal.total);
 orderoutputs = order outputs by group;
 dump orderoutputs;
 register /home/cloudera/Desktop/jars/piggybank-0.15.0.jar;

@@ -1,0 +1,132 @@
+Student,2001,5474
+Student,2002,5355
+Student,2003,6091
+Student,2004,5610
+Student,2005,5138
+Student,2006,5857
+Student,2007,6248
+Student,2008,6060
+Student,2009,6761
+Student,2010,7379
+Student,2011,7696
+Student,2012,6654
+House Wife,2001,21659
+House Wife,2002,22730
+House Wife,2003,23301
+House Wife,2004,23170
+House Wife,2005,24141
+House Wife,2006,25063
+House Wife,2007,24162
+House Wife,2008,24367
+House Wife,2009,25092
+House Wife,2010,25058
+House Wife,2011,24596
+House Wife,2012,21904
+Unemployed,2001,10252
+Unemployed,2002,10180
+Unemployed,2003,9913
+Unemployed,2004,9538
+Unemployed,2005,8798
+Unemployed,2006,8886
+Unemployed,2007,8511
+Unemployed,2008,9001
+Unemployed,2009,9916
+Unemployed,2010,10033
+Unemployed,2011,10419
+Unemployed,2012,8927
+Retired Person,2001,884
+Retired Person,2002,863
+Retired Person,2003,1062
+Retired Person,2004,939
+Retired Person,2005,914
+Retired Person,2006,1119
+Retired Person,2007,1048
+Retired Person,2008,886
+Retired Person,2009,1031
+Retired Person,2010,898
+Retired Person,2011,857
+Retired Person,2012,833
+Service (Private),2001,8981
+Service (Private),2002,8591
+Service (Private),2003,8109
+Service (Private),2004,7700
+Service (Private),2005,8814
+Service (Private),2006,9041
+Service (Private),2007,10068
+Service (Private),2008,10501
+Service (Private),2009,10720
+Service (Private),2010,10502
+Service (Private),2011,11172
+Service (Private),2012,11273
+Service (Government),2001,2293
+Service (Government),2002,2210
+Service (Government),2003,2333
+Service (Government),2004,1874
+Service (Government),2005,1693
+Service (Government),2006,2147
+Service (Government),2007,1857
+Service (Government),2008,2070
+Service (Government),2009,1714
+Service (Government),2010,1842
+Service (Government),2011,1626
+Service (Government),2012,1666
+Professional Activity,2001,2612
+Professional Activity,2002,2477
+Professional Activity,2003,3065
+Professional Activity,2004,2689
+Professional Activity,2005,2723
+Professional Activity,2006,3643
+Professional Activity,2007,3235
+Professional Activity,2008,3405
+Professional Activity,2009,3634
+Professional Activity,2010,4059
+Professional Activity,2011,4206
+Professional Activity,2012,3456
+Others (Please Specify),2001,32102
+Others (Please Specify),2002,31478
+Others (Please Specify),2003,31208
+Others (Please Specify),2004,35835
+Others (Please Specify),2005,36150
+Others (Please Specify),2006,35944
+Others (Please Specify),2007,40883
+Others (Please Specify),2008,42337
+Others (Please Specify),2009,39927
+Others (Please Specify),2010,48741
+Others (Please Specify),2011,50360
+Others (Please Specify),2012,44182
+Public Sector Undertaking,2001,2469
+Public Sector Undertaking,2002,2333
+Public Sector Undertaking,2003,2890
+Public Sector Undertaking,2004,2188
+Public Sector Undertaking,2005,2143
+Public Sector Undertaking,2006,2401
+Public Sector Undertaking,2007,2647
+Public Sector Undertaking,2008,3107
+Public Sector Undertaking,2009,2914
+Public Sector Undertaking,2010,2900
+Public Sector Undertaking,2011,2684
+Public Sector Undertaking,2012,2110
+Farming/Agriculture Activity,2001,16415
+Farming/Agriculture Activity,2002,17971
+Farming/Agriculture Activity,2003,17164
+Farming/Agriculture Activity,2004,18241
+Farming/Agriculture Activity,2005,17131
+Farming/Agriculture Activity,2006,17060
+Farming/Agriculture Activity,2007,16632
+Farming/Agriculture Activity,2008,16196
+Farming/Agriculture Activity,2009,17368
+Farming/Agriculture Activity,2010,15964
+Farming/Agriculture Activity,2011,14027
+Farming/Agriculture Activity,2012,13754
+Self-employed (Business activity),2001,5275
+Self-employed (Business activity),2002,6124
+Self-employed (Business activity),2003,5678
+Self-employed (Business activity),2004,5777
+Self-employed (Business activity),2005,6244
+Self-employed (Business activity),2006,6934
+Self-employed (Business activity),2007,7280
+Self-employed (Business activity),2008,7016
+Self-employed (Business activity),2009,7748
+Self-employed (Business activity),2010,7154
+Self-employed (Business activity),2011,7176
+Self-employed (Business activity),2012,5706

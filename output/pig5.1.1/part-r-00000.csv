@@ -1,0 +1,140 @@
+0-14,Bankruptcy or Sudden change in Economic,107
+15-29,Bankruptcy or Sudden change in Economic,5796
+30-44,Bankruptcy or Sudden change in Economic,13582
+45-59,Bankruptcy or Sudden change in Economic,10421
+60+,Bankruptcy or Sudden change in Economic,2849
+0-14,Bankruptcy or Sudden change in Economic Status,17
+15-29,Bankruptcy or Sudden change in Economic Status,469
+30-44,Bankruptcy or Sudden change in Economic Status,1093
+45-59,Bankruptcy or Sudden change in Economic Status,798
+60+,Bankruptcy or Sudden change in Economic Status,278
+0-14,Cancellation/Non-Settlement of Marriage,49
+15-29,Cancellation/Non-Settlement of Marriage,7703
+30-44,Cancellation/Non-Settlement of Marriage,3055
+45-59,Cancellation/Non-Settlement of Marriage,439
+60+,Cancellation/Non-Settlement of Marriage,50
+0-14,Cancer,34
+15-29,Cancer,922
+30-44,Cancer,2538
+45-59,Cancer,3502
+60+,Cancer,2062
+0-14,Causes Not known,8324
+15-29,Causes Not known,82515
+30-44,Causes Not known,80603
+45-59,Causes Not known,47501
+60+,Causes Not known,18126
+0-14,Death of Dear Person,267
+15-29,Death of Dear Person,3420
+30-44,Death of Dear Person,3364
+45-59,Death of Dear Person,2204
+60+,Death of Dear Person,1066
+0-14,Divorce,5
+15-29,Divorce,1552
+30-44,Divorce,1904
+45-59,Divorce,615
+60+,Divorce,57
+0-14,Dowry Dispute,191
+15-29,Dowry Dispute,23020
+30-44,Dowry Dispute,8098
+45-59,Dowry Dispute,629
+60+,Dowry Dispute,32
+0-14,Drug Abuse/Addiction,114
+15-29,Drug Abuse/Addiction,7378
+30-44,Drug Abuse/Addiction,13123
+45-59,Drug Abuse/Addiction,7581
+60+,Drug Abuse/Addiction,1850
+0-14,Failure in Examination,4264
+15-29,Failure in Examination,21328
+30-44,Failure in Examination,1254
+45-59,Failure in Examination,145
+60+,Failure in Examination,14
+0-14,Fall in Social Reputation,169
+15-29,Fall in Social Reputation,4719
+30-44,Fall in Social Reputation,4963
+45-59,Fall in Social Reputation,2809
+60+,Fall in Social Reputation,804
+0-14,Family Problems,4254
+15-29,Family Problems,121427
+30-44,Family Problems,125135
+45-59,Family Problems,69465
+60+,Family Problems,21671
+0-14,Ideological Causes/Hero Worshipping,34
+15-29,Ideological Causes/Hero Worshipping,825
+30-44,Ideological Causes/Hero Worshipping,723
+45-59,Ideological Causes/Hero Worshipping,425
+60+,Ideological Causes/Hero Worshipping,111
+0-14,Illegitimate Pregnancy,67
+15-29,Illegitimate Pregnancy,1702
+30-44,Illegitimate Pregnancy,654
+45-59,Illegitimate Pregnancy,69
+60+,Illegitimate Pregnancy,2
+0-14,Illness (Aids/STD),105
+15-29,Illness (Aids/STD),2414
+30-44,Illness (Aids/STD),3503
+45-59,Illness (Aids/STD),1863
+60+,Illness (Aids/STD),838
+0-14,Insanity/Mental Illness,1223
+15-29,Insanity/Mental Illness,27259
+30-44,Insanity/Mental Illness,32506
+45-59,Insanity/Mental Illness,22748
+60+,Insanity/Mental Illness,10493
+0-14,Love Affairs,1250
+15-29,Love Affairs,33023
+30-44,Love Affairs,9866
+45-59,Love Affairs,862
+60+,Love Affairs,38
+0-14,Not having Children (Barrenness/Impotency,3
+15-29,Not having Children (Barrenness/Impotency,297
+30-44,Not having Children (Barrenness/Impotency,333
+45-59,Not having Children (Barrenness/Impotency,124
+60+,Not having Children (Barrenness/Impotency,9
+0-14,Not having Children(Barrenness/Impotency,28
+15-29,Not having Children(Barrenness/Impotency,2800
+30-44,Not having Children(Barrenness/Impotency,3723
+45-59,Not having Children(Barrenness/Impotency,1145
+60+,Not having Children(Barrenness/Impotency,126
+0-14,Other Causes (Please Specity),9035
+15-29,Other Causes (Please Specity),71968
+30-44,Other Causes (Please Specity),73480
+45-59,Other Causes (Please Specity),44847
+60+,Other Causes (Please Specity),16720
+0-14,Other Prolonged Illness,2252
+15-29,Other Prolonged Illness,50206
+30-44,Other Prolonged Illness,60274
+45-59,Other Prolonged Illness,50751
+60+,Other Prolonged Illness,31082
+0-14,Paralysis,70
+15-29,Paralysis,1051
+30-44,Paralysis,1791
+45-59,Paralysis,2409
+60+,Paralysis,1965
+0-14,Physical Abuse (Rape/Incest Etc.),120
+15-29,Physical Abuse (Rape/Incest Etc.),2065
+30-44,Physical Abuse (Rape/Incest Etc.),1239
+45-59,Physical Abuse (Rape/Incest Etc.),430
+60+,Physical Abuse (Rape/Incest Etc.),138
+0-14,Poverty,323
+15-29,Poverty,8127
+30-44,Poverty,12745
+45-59,Poverty,8900
+60+,Poverty,2589
+0-14,Professional/Career Problem,32
+15-29,Professional/Career Problem,3478
+30-44,Professional/Career Problem,5441
+45-59,Professional/Career Problem,3043
+60+,Professional/Career Problem,560
+0-14,Property Dispute,66
+15-29,Property Dispute,4333
+30-44,Property Dispute,7204
+45-59,Property Dispute,5624
+60+,Property Dispute,1425
+0-14,Suspected/Illicit Relation,191
+15-29,Suspected/Illicit Relation,7565
+30-44,Suspected/Illicit Relation,5663
+45-59,Suspected/Illicit Relation,1358
+60+,Suspected/Illicit Relation,134
+0-14,Unemployment,91
+15-29,Unemployment,12414
+30-44,Unemployment,10856
+45-59,Unemployment,3626
+60+,Unemployment,378

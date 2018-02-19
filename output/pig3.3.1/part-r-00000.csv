@@ -1,0 +1,312 @@
+Cancer,2001,780
+Cancer,2002,894
+Cancer,2003,652
+Cancer,2004,822
+Cancer,2005,748
+Cancer,2006,747
+Cancer,2007,794
+Cancer,2008,741
+Cancer,2009,841
+Cancer,2010,828
+Cancer,2011,624
+Cancer,2012,587
+Divorce,2001,316
+Divorce,2002,348
+Divorce,2003,308
+Divorce,2004,367
+Divorce,2005,317
+Divorce,2006,394
+Divorce,2007,335
+Divorce,2008,410
+Divorce,2009,331
+Divorce,2010,290
+Divorce,2011,448
+Divorce,2012,269
+Poverty,2001,2549
+Poverty,2002,2448
+Poverty,2003,2671
+Poverty,2004,3403
+Poverty,2005,2548
+Poverty,2006,2643
+Poverty,2007,2809
+Poverty,2008,3006
+Poverty,2009,2987
+Poverty,2010,3047
+Poverty,2011,2282
+Poverty,2012,2291
+Paralysis,2001,772
+Paralysis,2002,648
+Paralysis,2003,514
+Paralysis,2004,504
+Paralysis,2005,790
+Paralysis,2006,537
+Paralysis,2007,496
+Paralysis,2008,652
+Paralysis,2009,716
+Paralysis,2010,582
+Paralysis,2011,539
+Paralysis,2012,536
+Love Affairs,2001,3114
+Love Affairs,2002,3101
+Love Affairs,2003,3996
+Love Affairs,2004,3799
+Love Affairs,2005,3496
+Love Affairs,2006,4064
+Love Affairs,2007,3383
+Love Affairs,2008,3774
+Love Affairs,2009,3711
+Love Affairs,2010,4166
+Love Affairs,2011,4586
+Love Affairs,2012,3849
+Unemployment,2001,2734
+Unemployment,2002,2249
+Unemployment,2003,2516
+Unemployment,2004,2571
+Unemployment,2005,2172
+Unemployment,2006,1891
+Unemployment,2007,2394
+Unemployment,2008,2080
+Unemployment,2009,2472
+Unemployment,2010,2222
+Unemployment,2011,2333
+Unemployment,2012,1731
+Dowry Dispute,2001,2414
+Dowry Dispute,2002,2410
+Dowry Dispute,2003,2447
+Dowry Dispute,2004,2638
+Dowry Dispute,2005,2351
+Dowry Dispute,2006,2336
+Dowry Dispute,2007,3148
+Dowry Dispute,2008,3038
+Dowry Dispute,2009,2921
+Dowry Dispute,2010,3093
+Dowry Dispute,2011,3239
+Dowry Dispute,2012,1935
+Family Problems,2001,24162
+Family Problems,2002,25085
+Family Problems,2003,26308
+Family Problems,2004,25531
+Family Problems,2005,25441
+Family Problems,2006,30771
+Family Problems,2007,29238
+Family Problems,2008,29777
+Family Problems,2009,30082
+Family Problems,2010,31856
+Family Problems,2011,32909
+Family Problems,2012,30792
+Causes Not known,2001,20585
+Causes Not known,2002,19706
+Causes Not known,2003,17631
+Causes Not known,2004,18812
+Causes Not known,2005,17445
+Causes Not known,2006,17159
+Causes Not known,2007,20409
+Causes Not known,2008,20124
+Causes Not known,2009,21313
+Causes Not known,2010,22685
+Causes Not known,2011,23024
+Causes Not known,2012,18176
+Property Dispute,2001,1599
+Property Dispute,2002,1253
+Property Dispute,2003,1515
+Property Dispute,2004,1689
+Property Dispute,2005,1559
+Property Dispute,2006,2244
+Property Dispute,2007,1411
+Property Dispute,2008,1394
+Property Dispute,2009,1283
+Property Dispute,2010,1899
+Property Dispute,2011,1590
+Property Dispute,2012,1216
+Illness (Aids/STD),2001,741
+Illness (Aids/STD),2002,688
+Illness (Aids/STD),2003,769
+Illness (Aids/STD),2004,668
+Illness (Aids/STD),2005,1099
+Illness (Aids/STD),2006,793
+Illness (Aids/STD),2007,952
+Illness (Aids/STD),2008,815
+Illness (Aids/STD),2009,677
+Illness (Aids/STD),2010,545
+Illness (Aids/STD),2011,451
+Illness (Aids/STD),2012,525
+Death of Dear Person,2001,871
+Death of Dear Person,2002,701
+Death of Dear Person,2003,1010
+Death of Dear Person,2004,749
+Death of Dear Person,2005,820
+Death of Dear Person,2006,879
+Death of Dear Person,2007,719
+Death of Dear Person,2008,1019
+Death of Dear Person,2009,803
+Death of Dear Person,2010,1035
+Death of Dear Person,2011,896
+Death of Dear Person,2012,819
+Drug Abuse/Addiction,2001,1414
+Drug Abuse/Addiction,2002,1709
+Drug Abuse/Addiction,2003,1763
+Drug Abuse/Addiction,2004,1927
+Drug Abuse/Addiction,2005,2032
+Drug Abuse/Addiction,2006,2188
+Drug Abuse/Addiction,2007,2332
+Drug Abuse/Addiction,2008,2730
+Drug Abuse/Addiction,2009,2942
+Drug Abuse/Addiction,2010,3343
+Drug Abuse/Addiction,2011,3658
+Drug Abuse/Addiction,2012,4008
+Failure in Examination,2001,2062
+Failure in Examination,2002,2250
+Failure in Examination,2003,2255
+Failure in Examination,2004,2496
+Failure in Examination,2005,2283
+Failure in Examination,2006,2378
+Failure in Examination,2007,1976
+Failure in Examination,2008,2189
+Failure in Examination,2009,2010
+Failure in Examination,2010,2479
+Failure in Examination,2011,2381
+Failure in Examination,2012,2246
+Illegitimate Pregnancy,2001,369
+Illegitimate Pregnancy,2002,267
+Illegitimate Pregnancy,2003,249
+Illegitimate Pregnancy,2004,204
+Illegitimate Pregnancy,2005,171
+Illegitimate Pregnancy,2006,267
+Illegitimate Pregnancy,2007,158
+Illegitimate Pregnancy,2008,238
+Illegitimate Pregnancy,2009,141
+Illegitimate Pregnancy,2010,153
+Illegitimate Pregnancy,2011,184
+Illegitimate Pregnancy,2012,93
+Insanity/Mental Illness,2001,5858
+Insanity/Mental Illness,2002,6440
+Insanity/Mental Illness,2003,7323
+Insanity/Mental Illness,2004,7117
+Insanity/Mental Illness,2005,7604
+Insanity/Mental Illness,2006,8045
+Insanity/Mental Illness,2007,8638
+Insanity/Mental Illness,2008,8699
+Insanity/Mental Illness,2009,8469
+Insanity/Mental Illness,2010,9465
+Insanity/Mental Illness,2011,8802
+Insanity/Mental Illness,2012,7769
+Other Prolonged Illness,2001,15947
+Other Prolonged Illness,2002,17296
+Other Prolonged Illness,2003,15636
+Other Prolonged Illness,2004,16341
+Other Prolonged Illness,2005,14820
+Other Prolonged Illness,2006,16497
+Other Prolonged Illness,2007,16452
+Other Prolonged Illness,2008,16651
+Other Prolonged Illness,2009,16028
+Other Prolonged Illness,2010,17044
+Other Prolonged Illness,2011,16154
+Other Prolonged Illness,2012,15699
+Fall in Social Reputation,2001,1209
+Fall in Social Reputation,2002,874
+Fall in Social Reputation,2003,912
+Fall in Social Reputation,2004,710
+Fall in Social Reputation,2005,1572
+Fall in Social Reputation,2006,1345
+Fall in Social Reputation,2007,1105
+Fall in Social Reputation,2008,1151
+Fall in Social Reputation,2009,1123
+Fall in Social Reputation,2010,1322
+Fall in Social Reputation,2011,1160
+Fall in Social Reputation,2012,981
+Suspected/Illicit Relation,2001,1200
+Suspected/Illicit Relation,2002,1358
+Suspected/Illicit Relation,2003,1291
+Suspected/Illicit Relation,2004,1216
+Suspected/Illicit Relation,2005,1220
+Suspected/Illicit Relation,2006,1134
+Suspected/Illicit Relation,2007,1299
+Suspected/Illicit Relation,2008,1264
+Suspected/Illicit Relation,2009,1180
+Suspected/Illicit Relation,2010,1336
+Suspected/Illicit Relation,2011,1395
+Suspected/Illicit Relation,2012,1018
+Professional/Career Problem,2001,857
+Professional/Career Problem,2002,971
+Professional/Career Problem,2003,1008
+Professional/Career Problem,2004,1032
+Professional/Career Problem,2005,735
+Professional/Career Problem,2006,1091
+Professional/Career Problem,2007,1273
+Professional/Career Problem,2008,1176
+Professional/Career Problem,2009,1354
+Professional/Career Problem,2010,966
+Professional/Career Problem,2011,1160
+Professional/Career Problem,2012,931
+Other Causes (Please Specity),2001,13854
+Other Causes (Please Specity),2002,14820
+Other Causes (Please Specity),2003,14801
+Other Causes (Please Specity),2004,16195
+Other Causes (Please Specity),2005,19447
+Other Causes (Please Specity),2006,15278
+Other Causes (Please Specity),2007,17653
+Other Causes (Please Specity),2008,18668
+Other Causes (Please Specity),2009,20474
+Other Causes (Please Specity),2010,21438
+Other Causes (Please Specity),2011,22634
+Other Causes (Please Specity),2012,20788
+Physical Abuse (Rape/Incest Etc.),2001,376
+Physical Abuse (Rape/Incest Etc.),2002,430
+Physical Abuse (Rape/Incest Etc.),2003,503
+Physical Abuse (Rape/Incest Etc.),2004,306
+Physical Abuse (Rape/Incest Etc.),2005,202
+Physical Abuse (Rape/Incest Etc.),2006,315
+Physical Abuse (Rape/Incest Etc.),2007,305
+Physical Abuse (Rape/Incest Etc.),2008,367
+Physical Abuse (Rape/Incest Etc.),2009,320
+Physical Abuse (Rape/Incest Etc.),2010,301
+Physical Abuse (Rape/Incest Etc.),2011,286
+Physical Abuse (Rape/Incest Etc.),2012,281
+Ideological Causes/Hero Worshipping,2001,104
+Ideological Causes/Hero Worshipping,2002,87
+Ideological Causes/Hero Worshipping,2003,242
+Ideological Causes/Hero Worshipping,2004,81
+Ideological Causes/Hero Worshipping,2005,215
+Ideological Causes/Hero Worshipping,2006,289
+Ideological Causes/Hero Worshipping,2007,261
+Ideological Causes/Hero Worshipping,2008,392
+Ideological Causes/Hero Worshipping,2009,128
+Ideological Causes/Hero Worshipping,2010,102
+Ideological Causes/Hero Worshipping,2011,41
+Ideological Causes/Hero Worshipping,2012,176
+Bankruptcy or Sudden change in Economic,2001,2918
+Bankruptcy or Sudden change in Economic,2003,2866
+Bankruptcy or Sudden change in Economic,2004,3063
+Bankruptcy or Sudden change in Economic,2005,3095
+Bankruptcy or Sudden change in Economic,2006,3320
+Bankruptcy or Sudden change in Economic,2007,3312
+Bankruptcy or Sudden change in Economic,2008,2970
+Bankruptcy or Sudden change in Economic,2009,3162
+Bankruptcy or Sudden change in Economic,2010,2709
+Bankruptcy or Sudden change in Economic,2011,2983
+Bankruptcy or Sudden change in Economic,2012,2357
+Cancellation/Non-Settlement of Marriage,2001,924
+Cancellation/Non-Settlement of Marriage,2002,963
+Cancellation/Non-Settlement of Marriage,2003,933
+Cancellation/Non-Settlement of Marriage,2004,762
+Cancellation/Non-Settlement of Marriage,2005,957
+Cancellation/Non-Settlement of Marriage,2006,865
+Cancellation/Non-Settlement of Marriage,2007,984
+Cancellation/Non-Settlement of Marriage,2008,949
+Cancellation/Non-Settlement of Marriage,2009,1003
+Cancellation/Non-Settlement of Marriage,2010,1027
+Cancellation/Non-Settlement of Marriage,2011,1119
+Cancellation/Non-Settlement of Marriage,2012,810
+Not having Children(Barrenness/Impotency,2001,777
+Not having Children(Barrenness/Impotency,2003,732
+Not having Children(Barrenness/Impotency,2004,694
+Not having Children(Barrenness/Impotency,2005,775
+Not having Children(Barrenness/Impotency,2006,642
+Not having Children(Barrenness/Impotency,2007,801
+Not having Children(Barrenness/Impotency,2008,743
+Not having Children(Barrenness/Impotency,2009,680
+Not having Children(Barrenness/Impotency,2010,666
+Not having Children(Barrenness/Impotency,2011,707
+Not having Children(Barrenness/Impotency,2012,605
+Not having Children (Barrenness/Impotency,2002,766
+Bankruptcy or Sudden change in Economic Status,2002,2655
